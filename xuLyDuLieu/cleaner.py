@@ -1,3 +1,5 @@
+#Trần Thanh Thảo
+#24110329
 import pandas as pd
 import numpy as np
 

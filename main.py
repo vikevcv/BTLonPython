@@ -1,3 +1,5 @@
+#Hoa Vĩ Khang
+#24110240
 from xuLyDuLieu.loader import load_and_merge_data
 from xuLyDuLieu.cleaner import clean_data, normalize_data
 from trucQuanHoa.chart import draw_quality_distribution, draw_correlation_matrix ,draw_alcohol_comparison
@@ -40,3 +42,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#Tester
+#Võ Cao Quốc Khánh
+#24110252
